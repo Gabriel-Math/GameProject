@@ -22,4 +22,10 @@ O projeto foi desenvolvido como forma de aprendizado para desenvolvimento de jog
 * Porta arremessando personagem.
 * Som do movimento do personagem.
 
+# Futuras atualizações
+* Adicionar sprites, definir aparencias e cenario
+* Corrigir possiveis bugs
+* Adicionar novas mecanicas
+* Definir roteiro
+
 Projeto desenvolvido por Gabriel Matheus
