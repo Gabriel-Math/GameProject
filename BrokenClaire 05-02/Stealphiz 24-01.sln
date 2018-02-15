@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stealphiz 24-01", "Assembly-CSharp.csproj", "{71984BCE-4F13-0192-F24B-4E005DF9D613}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stealphiz 24-01", "Assembly-CSharp-Editor.csproj", "{7DE90D1A-B989-97F3-497D-7EB65ABED42E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71984BCE-4F13-0192-F24B-4E005DF9D613}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71984BCE-4F13-0192-F24B-4E005DF9D613}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71984BCE-4F13-0192-F24B-4E005DF9D613}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71984BCE-4F13-0192-F24B-4E005DF9D613}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DE90D1A-B989-97F3-497D-7EB65ABED42E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DE90D1A-B989-97F3-497D-7EB65ABED42E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DE90D1A-B989-97F3-497D-7EB65ABED42E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DE90D1A-B989-97F3-497D-7EB65ABED42E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

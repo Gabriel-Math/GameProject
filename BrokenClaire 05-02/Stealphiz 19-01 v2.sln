@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stealphiz 19-01 v2", "Assembly-CSharp.csproj", "{3F50B6FF-70AA-C957-125C-F1E8CCD95E02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stealphiz 19-01 v2", "Assembly-CSharp-Editor.csproj", "{DE727071-9C65-0748-51F4-14F9067968F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F50B6FF-70AA-C957-125C-F1E8CCD95E02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F50B6FF-70AA-C957-125C-F1E8CCD95E02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F50B6FF-70AA-C957-125C-F1E8CCD95E02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F50B6FF-70AA-C957-125C-F1E8CCD95E02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE727071-9C65-0748-51F4-14F9067968F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE727071-9C65-0748-51F4-14F9067968F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE727071-9C65-0748-51F4-14F9067968F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE727071-9C65-0748-51F4-14F9067968F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

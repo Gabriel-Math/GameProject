@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stealphiz 29-01", "Assembly-CSharp.csproj", "{EDC9893D-FE04-4A95-3331-3156FEDCFD2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stealphiz 29-01", "Assembly-CSharp-Editor.csproj", "{B7424C5C-D749-ECAD-3A5E-1E79EDB3F1DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDC9893D-FE04-4A95-3331-3156FEDCFD2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDC9893D-FE04-4A95-3331-3156FEDCFD2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDC9893D-FE04-4A95-3331-3156FEDCFD2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDC9893D-FE04-4A95-3331-3156FEDCFD2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7424C5C-D749-ECAD-3A5E-1E79EDB3F1DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7424C5C-D749-ECAD-3A5E-1E79EDB3F1DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7424C5C-D749-ECAD-3A5E-1E79EDB3F1DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7424C5C-D749-ECAD-3A5E-1E79EDB3F1DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
