@@ -1,9 +1,16 @@
 # Broken Claire
 O projeto foi desenvolvido como forma de aprendizado para desenvolvimento de jogos, a ideia é ser um jogo com mecanicas simples Stealth(Andar escondido e passar despercebido), com a tematica de terror.
 
+![game-logo](https://imgur.com/cSvp3Gc.jpg)
+
 ## Game
 * Menu à concluir.
+* Pause Menu.
 * Fade in e out quando iniciar o game.
+
+![menu](https://imgur.com/hKYJZSc.jpg)
+
+![pause-menu](https://imgur.com/eNciNOg.jpg)
 
 ## Personagem
 * Movimentação com W, A, S, D ou Setas.
@@ -14,6 +21,12 @@ O projeto foi desenvolvido como forma de aprendizado para desenvolvimento de jog
 * Coletar documentos.
 * Possui campo de visão.
 * Esconder te torna invisivel, porém reduz sua visão enquanto permanecer escondido.
+
+![escondido](https://imgur.com/miGKReJ.jpg)
+
+![abrindo-portas](https://imgur.com/d5WEMeE.jpg)
+
+![lendo](https://imgur.com/OCwjPNl.jpg)
 
 ## Inimigo
 * Anda pelo ambiente configurado através do Pontos(Waypoints).
